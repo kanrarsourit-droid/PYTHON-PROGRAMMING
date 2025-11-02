@@ -1,2 +1,0 @@
-# PYTHON-PROGRAMMING
-python projects
