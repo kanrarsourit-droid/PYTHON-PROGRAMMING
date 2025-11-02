@@ -1,5 +1,5 @@
 #include <iostream>
-using namespace std;
+using namespace std;;
 
 // Abstract base class
 class Shape {
@@ -43,4 +43,5 @@ int main() {
 
 	return 0;
 }
+
 
